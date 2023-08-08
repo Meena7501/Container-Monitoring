@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Monitoring</string>
+    <string name="TODO1"><a href="">Already have an account? Login</a></string>
+    <string name="TODO"><a href=" ">Create a New Account? Signup</a></string>
+</resources>
